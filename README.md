@@ -9,10 +9,10 @@
 <h1 align="center"> ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️
 </h1>
 <p align="center"> 
-  أنا "الجزار بوت" روبوت واتساب تم إنشاؤه بواسطة الجزار الوزير للقيام بكل ما هو ممكن على واتساب بناءً على دعم واتساب (MD) ELGAZAR..
+  أنا "الجزار بوت" روبوت واتساب تم إنشاؤه بواسطة الامبراطور انوس الوزير للقيام بكل ما هو ممكن على واتساب بناءً على دعم واتساب (MD) ELGAZAR..
 
 <p align="center">
-  <a href="https://github.com/Ayush-pandey-u/Chiku-MD/fork">
+  <a href=" https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY ">
     <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
     
     
